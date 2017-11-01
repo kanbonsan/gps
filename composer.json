@@ -1,0 +1,16 @@
+{
+    "name": "kanbonsan/gps",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Shuichi Tanaka",
+            "email": "shu.at.kantaro.org@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.3"
+    },
+        "autoload": {
+        "psr-4": {"kanbonsan\\": "src/"}
+    }
+}
