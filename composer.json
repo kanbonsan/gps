@@ -1,6 +1,6 @@
 {
     "name": "kanbonsan/gps",
-    "type": "library",
+    "type": "vcs",
     "authors": [
         {
             "name": "Shuichi Tanaka",
