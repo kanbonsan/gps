@@ -12,5 +12,6 @@
     },
         "autoload": {
         "psr-4": {"kanbonsan\\": "src/"}
-    }
+    },
+    "minimum-stability": "dev"
 }
