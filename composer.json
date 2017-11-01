@@ -10,8 +10,10 @@
     "require": {
         "php": ">=5.3.3"
     },
-        "autoload": {
-        "psr-0": {"kanbonsan\\gps\\": "src/"}
+    "autoload": {
+        "psr-4": {
+            "Kanbonsan\\Gps\\": "src/"
+        }
     },
     "minimum-stability": "dev"
 }
